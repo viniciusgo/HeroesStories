@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HereosStories", "HereosStories\HereosStories.csproj", "{8ED75C73-EF37-4E18-AE40-2D3FB391AE53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIClient", "..\APIClient\APIClient.csproj", "{EB4ECFE6-9FD3-493B-94AB-93592428DB77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{E99D0334-EF2F-4336-A968-46B43B82E2FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8ED75C73-EF37-4E18-AE40-2D3FB391AE53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ED75C73-EF37-4E18-AE40-2D3FB391AE53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ED75C73-EF37-4E18-AE40-2D3FB391AE53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ED75C73-EF37-4E18-AE40-2D3FB391AE53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB4ECFE6-9FD3-493B-94AB-93592428DB77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB4ECFE6-9FD3-493B-94AB-93592428DB77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB4ECFE6-9FD3-493B-94AB-93592428DB77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB4ECFE6-9FD3-493B-94AB-93592428DB77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E99D0334-EF2F-4336-A968-46B43B82E2FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E99D0334-EF2F-4336-A968-46B43B82E2FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E99D0334-EF2F-4336-A968-46B43B82E2FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E99D0334-EF2F-4336-A968-46B43B82E2FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E938FFB-1400-4AC3-88CF-0A3C85838521}
+	EndGlobalSection
+EndGlobal
